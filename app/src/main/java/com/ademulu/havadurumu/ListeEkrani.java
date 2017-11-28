@@ -44,7 +44,6 @@ public class ListeEkrani extends Activity {
             public void onClick(View v) {
 
                 int j=0;
-
                 for(int i=0;i<sehir_liste.size();i++){
 
                         if(sayac<=i && i<sayac+3)
